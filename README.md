@@ -6,13 +6,13 @@ Master Data ICD-10 version from WHO (https://icd.who.int/browse10/2019/en). Data
 
 1. SQL Version
   a. Clone or download this project
-  b. Go to your sql management and create new database called 'master_icd_x'
+  b. Go to your sql management and create new database called `master_icd_x`.
     - If you're using PhpMyAdmin :
-      a. Make sure enable PhpMyAdmin service
-      b. Go to 'http://localhost/phpmyadmin' on your web browser
-      c. Login with your credentials (If exists)
-      d. Create new database named 'master_icd_x'
-  c. Import file 'master_icd_x.sql' to your database
+      - Make sure enable PhpMyAdmin service
+      - Go to 'http://localhost/phpmyadmin' on your web browser
+      - Login with your credentials (If exists)
+      - Create new database named `master_icd_x`
+  c. Import file "**master_icd_x.sql**" to your database
 
 2. JSON Version
   a. Clone or download this project
